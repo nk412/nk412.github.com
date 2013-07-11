@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : A malfunction of x
-tagline: Two primes and a cold pie
+title : Jekyll Bootstrap
+tagline: Site Tagline
 author :
-  name : Nagarjuna Kumar
-  email : nagarjuna.412@gmail.com
-  github : https://www.github.com/nk412
+  name : Name Lastname
+  email : blah@email.test
+  github : username
   twitter : username
   feedburner : feedname
 
