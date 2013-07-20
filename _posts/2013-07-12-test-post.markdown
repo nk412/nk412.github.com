@@ -1,6 +1,0 @@
----
-layout: post
-title: test post title
-published: true
----
-Hello, Jekyll!

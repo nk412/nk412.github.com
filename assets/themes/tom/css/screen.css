@@ -17,13 +17,13 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px Georgia, serif;
+  font: 13.5px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   *font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 120%;
+  font-size: 100%;
 }
 
 h1 {
@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #2aa198;
 }
 
 a:hover {
@@ -81,7 +81,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 40em;
+  width: 35em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }

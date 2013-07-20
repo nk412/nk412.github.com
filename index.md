@@ -1,20 +1,18 @@
 ---
 layout: page
-title: nagarjuna kumar
-tagline: personal homepage
+title: Nagarjuna Kumar
+tagline: Personal homepage
 ---
 {% include JB/setup %}
 
-## Hello there,
-i am just `blog.testing()`
-Nothing here is ready to be seen by
+## Hello!
 
-	anyone other than;
-	me;
+I'm a software developer with a focus on big data analytics, machine learning and algorithm development, and have experience with large datasets and distributed computing systems.
 
-so yes
+I am currently based in the beautiful city of Cambridge, UK.
 
-### Posts
+
+## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
