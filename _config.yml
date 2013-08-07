@@ -1,5 +1,5 @@
 title:            Nagarjuna Kumar
-description:      "Software developer with a focus on data science, big data, machine learning and algorithm development."
+description:      "Software engineer with a focus on big data, machine learning and algorithm development."
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
@@ -15,7 +15,7 @@ owner:
   facebook:       nagarjuna412
   github:         nk412
   stackexchange:  
-  linkedin:       
+  linkedin:       nagarjuna-kumar/28/711/959
   instagram:      
   flickr:         
   tumblr:         
@@ -35,7 +35,7 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
+  - title: CV
     url: /theme-setup
   # - title: Made Mistakes
   #   url: http://mademistakes.com
