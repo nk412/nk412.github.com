@@ -4,8 +4,6 @@ title: "A bipolar git aware bash prompt"
 description: "A short post describing my bash prompt"
 category: articles
 tags: [bash, customization]
-image:
-  feature: so-simple-sample-image-1.jpg
 comments: true  
 ---
 
