@@ -3,11 +3,9 @@ layout: page
 permalink: /about/index.html
 title: About me
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-image:
-  feature: so-simple-sample-image-5.jpg
 ---
 
-I'm a big data software engineer based in the beautiful city of **Cambridge, UK**. Born in India, I grew up in Dubai and moved to the UK a few years ago.
+I'm a software engineer based in the beautiful city of **Cambridge, UK**. I was born in India, but I grew up in Dubai, UAE, and moved to the UK a few years ago.
 
 I like solving problems, and I like writing code to solve them even more. **I work with large datasets on a distributed computing platform.** I'm a big fan of learning new things, technical and otherwise. When I'm not in front of a keyboard, I'm usually outside travelling, writing, or entertaining people as a hobbyist magician.
 
